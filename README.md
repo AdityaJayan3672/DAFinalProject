@@ -15,4 +15,10 @@ Data Visualization
 Insight Generation & Recommendations
 
 The objective of the project is to identify factors influencing employee performance and provide actionable HR insights using data-driven analysis.
-
+Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+VS Code
