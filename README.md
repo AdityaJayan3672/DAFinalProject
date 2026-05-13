@@ -8,17 +8,28 @@ This project focuses on analyzing employee performance and workforce productivit
 The project demonstrates a complete Data Analytics workflow including:
 
 Data Loading
+
 Data Cleaning & Preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Statistical Analysis
+
 Data Visualization
+
 Insight Generation & Recommendations
 
 The objective of the project is to identify factors influencing employee performance and provide actionable HR insights using data-driven analysis.
 Technologies Used
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 VS Code
